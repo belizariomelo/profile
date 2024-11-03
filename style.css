@@ -20,7 +20,7 @@ body {
    
 }
 .topbar{
-    background-color: #141313;
+    background-image: url(bg-hero.svg);
     background-size:100%;
 }
 .container_main {
